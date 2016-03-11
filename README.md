@@ -5,6 +5,7 @@
 - 主页面和次页面，点击主页面中的按钮，打开次页面，次页面左上角有<返回按丢，点击关闭次页面
 
 ![navitator](https://github.com/jackgreentemp/practice/blob/master/navigator.gif)
+![navitator](https://github.com/jackgreentemp/practice/blob/master/navigator_android.gif)
 
 ##步骤
 + 新建工程
