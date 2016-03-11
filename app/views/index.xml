@@ -1,0 +1,10 @@
+<Alloy>
+	<Window id="win" class="container" platform="android">
+		<Button id="label" onClick="doClick">Home</Button>
+	</Window>
+	<NavigationWindow id="nav" platform="ios" class="container">
+		<Window id="win" class="container">
+			<Button id="label" onClick="doClick">Home</Button>
+		</Window>
+	</NavigationWindow>
+</Alloy>
